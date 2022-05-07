@@ -21,6 +21,6 @@
 # วิดีโอนำเสนอ
 > [Smoke Detect Sensor | IT KMITL Computer Programming Project 2022](https://www.youtube.com/watch?v=h6BTQJ6wfGs&feature=youtu.be)
 # โปสเตอร์
->  ![Poster](Poster/Poster.png)
+>  ![Poster](Poster/Poster.jpg)
 ### สมาชิก
 ---
