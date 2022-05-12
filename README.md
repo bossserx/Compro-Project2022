@@ -13,7 +13,7 @@
 > * LED
 > * Lesistor
 # บทคัดย่อ
-> [บทคัดย่อ](https://docs.google.com/document/d/1QJhKXMBHFhQIcRQay6QXLjgT2K9Bn8pqgYMzIpaahwA/edit)
+> [บทคัดย่อ](https://docs.google.com/document/d/1L6Cp9zC9avDc_B5azz2bxoOPMCIbIO1ZZ-EAPOcmntY/edit?usp=sharing)
 # เว็บที่ใช้ต่อวงจร
 > [Tinkercad](https://www.tinkercad.com/things/cs5DJcWUfS2-smoke-detec/editel?sharecode=AQy-P4OdKnqkz5EzkNHKk1oJHeO5jNYHqsHJWZ6XuS0)
 # 3D Model
