@@ -19,7 +19,7 @@
 # 3D Model
 > [Tinkercad](https://www.tinkercad.com/things/4V4M1iAyF9z-gas-detec/edit?sharecode=xNeBRsA9llxn-WhZIB_7XVRFn2TK7EEEOeGhVjHDrWo)
 # วิดีโอนำเสนอ
-> [Smoke Detect Sensor | IT KMITL Computer Programming Project 2022](https://www.youtube.com/watch?v=h6BTQJ6wfGs&feature=youtu.be)
+> [Gas Detect Sensor | IT KMITL Computer Programming Project 2022](https://www.youtube.com/watch?v=e2_CfPNxy-4)
 # โปสเตอร์
 >  ![Poster](Poster/poster.jpg)
 ### สมาชิก
