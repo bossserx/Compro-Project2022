@@ -24,3 +24,8 @@
 >  ![Poster](Poster/poster.jpg)
 ### สมาชิก
 ---
+| รหัสนักศึกษา | ชื่อ - นามสกุล |  หน้าที่ |
+| :-------- | :-------- | :--------- |
+|   640700126  |   กานต์ แก้วประภา   |    Poster / Video /  Abstract  |
+|   640700125   |    กัมปนาท คนคล่อง     |   Video / Microcontroller / Abstract   |
+|   640700074  |   พิชญุตม์ ศรีม่วง    |    Github / Microcontroller / Abstract   |
